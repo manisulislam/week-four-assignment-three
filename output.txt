@@ -1,2 +1,1 @@
-pass_by_value function a value is-100
-main function a value is-40
+0
